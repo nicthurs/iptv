@@ -10,7 +10,12 @@ Rio Grande do Norte - UMARIZAL
 • Canais de Rádio: 21
 
 Regionais
-- SBT
+
+#EXTM3U
+
+#EXTINF:-1,001 - SBT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717027312/ei/kG1XZuO2EM-8obIPyY2O0AU/ip/2804%3A29b8%3A5040%3A59d3%3Ac033%3Ab2%3A8f27%3Af612/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANIw93vnL7nKKKx0GM5UAJdDpbf70SMu8f2q71Sm1EKsAiEA0DuwMtTmGhPJ4H6rybxqScNedi3E9Xc6vN0m3AiwiB0%3D/file/index.m3u8
+
 - Inter TV Costa Branca
 - TV RECORD NACIONAL
 - BAND SAT
