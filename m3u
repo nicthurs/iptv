@@ -11,6 +11,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717042181/ei/p
 https://live-01.edge-brisa-jdo-pb.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1icmlzYS1qZG8tcGIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE3MTA4OTAyLCJpYXQiOjE3MTcwMjI1MDIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZWQzOGY0YzUtODBmMi00YWI0LTlmZWEtZDQwOTFjYjhjYjg5IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvZ2xvYm8tbmEyL3BsYXlsaXN0Lm0zdTgifQ.e84dDPixKKGbnm3u6X1hZekzMfrFNHvOz0CDoA59yBEYi1s0s6TEw3-RUmGBMIhTvZ3vvbCTOGKu9pNMx-8r9wmNL1aRqryO3MfNsw8vvEiFSBgnCgYOfSwUWe36Mgxj4Hvzz8BUji5Wo0-VCBtGGnvQlwxQNq8vz68VrMUHVtRu7EcuK2ALgjz-KLU7d15rqtPq-F5nqBFxYr-IghyxofJcamAtobkw2jr9mZkWzxC2mEZu26jfRxQ0kC-7iz2tsy7WLlwSwymUfr8OqxyyY-cf6Tv9vfxyBTzqKDzBFdrLvR67npWxYh5talV8jODH5ugi6mq26cXp1_didntaSg/nu/f(bMin=2000)/globo-na2/playlist.m3u8
 
 #EXTINF:-1,03 - Record
-https://spo4.akamaized.net/linear/hls/pa/event/8ssSlUQxSUimorxHsFz_SQ/stream/da789534-0e3e-4777-ac37-67267fb71f88:SCL/master.m3u8??hdnts=exp=1717023850~acl=/*~hmac=6fb9b7557f1f302b7bec8a57f5049fc6b979a6c30b88cee48991f722d75bfc65
+https://spo4.akamaized.net/linear/hls/pa/event/8ssSlUQxSUimorxHsFz_SQ/stream/da789534-0e3e-4777-ac37-67267fb71f88:SCL/master.m3u8??hdnts=exp=1717023850~acl=/*~hmac=6fb9b7557f1f302b7bec8a57f5049fc6b979a6c30b88cee48991f722d75bfc65.m3u8
 #EXTINF:-1,04 - Band
 Link
