@@ -76,3 +76,6 @@ https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-name="TV Meio Norte" tvg-logo="image" group-title="Canais",18 - TV MEIO NORTE
 https://player-api.new.livestream.com/accounts/3332377/events/11131538/broadcasts/245958572.secure.m3u8?dw=80&hdnea=st=1717184983~exp=1717186783~acl=/i/3332377_11131538_lsii9v62lqagr3i1tjs_1@688813/*~hmac=6e8daec98212d393188e2664b194b0669e0c6868cb90125c573a59f87ed4354a&token=665a2b03_a95e73f3d85bd20b5aeb508951cbfea9a3dc846e
+
+#EXTINF:-1 tvg-id="19" tvg-name="ISTV" tvg-logo="image" group-title="Canais",19 - ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
