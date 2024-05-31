@@ -14,3 +14,6 @@ https://live-01.edge-brisa-jdo-pb.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6
 
 #EXTINF:-1 tvg-id="Record" tvg-name="Record" tvg-logo="image" group-title="Canais",02 - Record
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="image" group-title="Canais",03 - SBT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717190711/ei/1-tZZpDUEbiC-LAPj4ODkAU/ip/2804%3A29b8%3A5040%3A59d3%3Ab896%3Abe17%3A7714%3Ac4a0/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/spc/UWF9f-5qnx05LWBDJzxTAMKetth6Y0Uv7ylNlcz6hIDHQxp0tltG_6_DZZMAXbg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLJOh-SVla9k6_9nLmfuEOX7eTb6if1xnN39kfLvrluECIGh8Lhl8k3wiZ5dHL9GofqXE7wGpR7k8dXRBko_NQ2MR/file/index.m3u8
