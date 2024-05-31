@@ -4,7 +4,7 @@ IPTV
 
 INFORMAÇÕES
 
-#EXTINF:-1 tvg-id="name" tvg-name="name" tvg-logo="image" group-title="Informações",Atualização: 31/05/2024
+#EXTINF:-1 tvg-id="id" tvg-name="name" tvg-logo="image" group-title="Informações",Atualização: 31/05/2024
 https://github.com
 
 CANAIS
