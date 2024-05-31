@@ -13,21 +13,21 @@ https://github.com
 CANAIS
 Grupo A
 
-#EXTINF:-1 tvg-id="01" tvg-name="Globo" tvg-logo="image" group-title="Canais",GLOBO
+#EXTINF:-1 tvg-id="01" tvg-name="Globo" tvg-logo="image" group-title="Canais",01 - GLOBO
 https://live-01.edge-brisa-jdo-pb.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1icmlzYS1qZG8tcGIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE3MjQwMzcwLCJpYXQiOjE3MTcxNTM5NzAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZWQzOGY0YzUtODBmMi00YWI0LTlmZWEtZDQwOTFjYjhjYjg5IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvZ2xvYm8tbmEyL3BsYXlsaXN0Lm0zdTgifQ.Jh1gWYHiJADIuIl04BwjLphmUtsF0GWKFliF2SFpNWtIDU5vOz5VAKlN53TbjIObrmSVqNbV-_mLTKQKK154X1fa0PFK2zxtgTHmswfF-PHAsv0G2-Enpm1yt-kzpQBtOTBcc2c4_ZtqKUii7bsFrNeSOAF9DRJFrFx9zINPKiYIt-aph7Y27AoFwKdigDWkuGokRsIyx58LZ7jhjPnsrJig8ZCzGQs60pwXGmEiNn2vkz6PdQcho_Qx-jyBHqS57LukDrLnARi1aIjAr5QMeeNPofgtj3M-hnB1mSq-3QaoFZIrbkIB4g4skmqEOVpLQDKfDHMTDROcNjergGQ-hg/nu/f(bMin=2000)/globo-na2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="02" tvg-name="Record" tvg-logo="image" group-title="Canais",RECORD
+#EXTINF:-1 tvg-id="02" tvg-name="Record" tvg-logo="image" group-title="Canais",02 - RECORD
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="03" tvg-name="SBT" tvg-logo="image" group-title="Canais",SBT
+#EXTINF:-1 tvg-id="03" tvg-name="SBT" tvg-logo="image" group-title="Canais",03 - SBT
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717190711/ei/1-tZZpDUEbiC-LAPj4ODkAU/ip/2804%3A29b8%3A5040%3A59d3%3Ab896%3Abe17%3A7714%3Ac4a0/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/spc/UWF9f-5qnx05LWBDJzxTAMKetth6Y0Uv7ylNlcz6hIDHQxp0tltG_6_DZZMAXbg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLJOh-SVla9k6_9nLmfuEOX7eTb6if1xnN39kfLvrluECIGh8Lhl8k3wiZ5dHL9GofqXE7wGpR7k8dXRBko_NQ2MR/file/index.m3u8
 
-#EXTINF:-1 tvg-id="04" tvg-name="Band" tvg-logo="image" group-title="Canais",BAND
+#EXTINF:-1 tvg-id="04" tvg-name="Band" tvg-logo="image" group-title="Canais",04 - BAND
 https://www.dailymotion.com/cdn/live/video/x83vbd6.m3u8?sec=sErX8Afju1IIcCRL6vlaWrRP5S-rsIRl9jeCCp6AgQQS-qAcvZm5n3jL0o8slsem&dmTs=264322&dmV1st=a5ed7692-726b-41b6-8d6c-16016612b825
 
 TOTAL: 4
 
 Grupo B
 
-#EXTINF:-1 tvg-id="05" tvg-name="Sportv" tvg-logo="image" group-title="Canais",SPORTV
+#EXTINF:-1 tvg-id="05" tvg-name="Sportv" tvg-logo="image" group-title="Canais",05 - SPORTV
 https://live-01.edge-brisa-jdo-pb.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1icmlzYS1qZG8tcGIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE3MjYwNzI4LCJpYXQiOjE3MTcxNzQzMjgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZWQzOGY0YzUtODBmMi00YWI0LTlmZWEtZDQwOTFjYjhjYjg5IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvc3BvMTI0aGEvcGxheWxpc3QubTN1OCJ9.LCKFS6847tTPEUq1qqHIGl6N89Xbt-sBw4ZtGFbRt_NYxyiQ73ptBhqDA7yEcmdpW2GlRU0m7oohLuzzPd4r5tRPCow_Y1We9gCBy9M_CpalEBd1bXGj5j3aypxubaDH31lowo5ONORMuH8Rrkv3mMtBJpE9HUtVssqwIQoxYJb0U3rXy6TLQ4Mt8ulUqfJcXHo-VdYy8y_8s8kx_kzKBOpO2TwfMKzMaMET2apgdh62dl2VYlby8aUJCKbF7y3zAh7R7wew9RM3cpEyDNs7Ym8El78jJuyOUV6B0gLmlXjm_Ugjj9gch-WUrE6iq3JrIb7bbCG_2NuIj291Dg5f1w/nu/f(bMin=2000)/spo124ha/playlist.m3u8
