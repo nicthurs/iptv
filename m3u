@@ -64,3 +64,6 @@ Grupo D
 
 #EXTINF:-1 tvg-id="14" tvg-name="RedeTV!" tvg-logo="image" group-title="Canais",14 - REDETV
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="TV Gazeta" tvg-logo="image" group-title="Canais",15 - TV GAZETA
+https://www.dailymotion.com/cdn/live/video/x8ttlxm.m3u8?sec=knM_WcJi0q_LOjK0IwxSd32f2UPnia23w7ZAJ4_NZAuJiPVMhM_XU4e1ECi2_-Mz&dmTs=676715&dmV1st=b19caef3-b969-4d61-ab60-b68d38c694da
