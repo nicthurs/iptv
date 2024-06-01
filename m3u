@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="01" tvg-name="Globo" tvg-logo="https://imgur.com/gallery/I4szBSH" group-title="Canais",01 - GLOBO
+#EXTINF:-1 tvg-id="01" tvg-name="Globo" tvg-logo="https://i.imgur.com/Foo8M2M.png" group-title="Canais",01 - GLOBO
 https://live-01.edge-brisa-jdo-pb.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1icmlzYS1qZG8tcGIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE3MzU5ODUwLCJpYXQiOjE3MTcyNzM0NTAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZWQzOGY0YzUtODBmMi00YWI0LTlmZWEtZDQwOTFjYjhjYjg5IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvZ2xvYm8tbmEyL3BsYXlsaXN0Lm0zdTgifQ.dbpIx3bjvu4vBXlj6VDESKtrT-OUXYDgUAu5Jayb3maXcsj4kMWO97yrr-CJ2CiN7RVGcsxc-IdIkTXYtjIeQfVK3fcULfGVy2-JNoZQknVx_JDqc0rcJ9oxUTPwGfXAzabg_O2Li1C0xkk-0qG-rAb9-qn8Za3Y6PUR5Dup73jl6K1D_DXuilzpnfnyoWjvxJXuN32rrQHHYxlGJXoYY2K2e6AX0qFPafy8J1OyCqk5UXhoTH_hzkGhh2GnPvqxSV5SF2kE5svgiApEBfEggPYBq6o0O4261O8TQLTyi69bFGUB976t1EDvu_RrvbLBYyCdbhrgewJWqHgGINSDZA/nu/f(bMin=2000)/globo-na2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="02" tvg-name="Record" tvg-logo="image" group-title="Canais",02 - RECORD
