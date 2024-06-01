@@ -11,3 +11,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717296732/ei/_
 
 #EXTINF:-1 tvg-id="04" tvg-name="Band" tvg-logo="image" group-title="Canais",04 - BAND
 https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="05" tvg-id="TV Brasil" tvg-logo="image" group-title="Canais",05 - TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8
