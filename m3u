@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="01" tvg-name="Globo" tvg-logo="https://i.imgur.com/SQZ4n1K.png" group-title="Canais",01 - GLOBO
 https://live-01.edge-brisa-jdo-pb.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1icmlzYS1qZG8tcGIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE3NTM4MTcxLCJpYXQiOjE3MTc0NTE3NzEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZWQzOGY0YzUtODBmMi00YWI0LTlmZWEtZDQwOTFjYjhjYjg5IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvZ2xvYm8tbmEyL3BsYXlsaXN0Lm0zdTgifQ.s_VwDhhVXcqfozXMF9kdSiE3eWrKo3t-lXejvG2A6682XQDRBgjVUqhE3M-__lPWXh-nHRfBtUdw4Ln05V2vNMAAIvS637VYJMsga9-Zt8YPDKuExPN42_PpdIVgMdAzxA3JPKWG4fiCsHEO4y5sqvGAh-mMLRMRygxLvw_v5ILpXcQAgSDSO5gqIOBqE6yy9A3m4GAsP-tfaJ_8cGnLCAyaVUAZkUFrLIK2Je_7ZknW3iR5R776H1PgjTj6F2DlVoV2oVyNyu0sh-EVD_ENYNNS6DHx0YFK2jl1zKIiuvwkCvWbd2yRWhEasqSgjWpCxHtVwfE4paUF4b8WOlc20A/nu/f(bMin=2000)/globo-na2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="02" tvg-name="Record" tvg-logo="https://i.imgur.com/JQ1n0TW.png" group-title="Canais",02 - RECORD
+#EXTINF:-1 tvg-id="02" tvg-name="Record" tvg-logo="https://i.imgur.com/a9v3fqL.png" group-title="Canais",02 - RECORD
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="03" tvg-name="SBT" tvg-logo="https://i.imgur.com/6ThDDMm.png" group-title="Canais",03 - SBT
