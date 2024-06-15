@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="01" tvg-name="Globo" tvg-logo="https://i.imgur.com/SQZ4n1K.png" group-title="Canais",01 - GLOBO
+#EXTINF:-1 tvg-id="01" tvg-name="Globo" tvg-logo="https://i.imgur.com/SQZ4n1K.png" group-title="Principais",01 - GLOBO
 https://live-01.edge-brisa-jdo-pb.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1icmlzYS1qZG8tcGIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE3NzA0NDczLCJpYXQiOjE3MTc2MTgwNzMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZWQzOGY0YzUtODBmMi00YWI0LTlmZWEtZDQwOTFjYjhjYjg5IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvZ2xvYm8tbmEyL3BsYXlsaXN0Lm0zdTgifQ.rtQHD6B-iEE0AW6mCJ_5Id3Gf9brU7bAyUmkD0o17ifpvCWeOkX0LjS__jImNdzzydPdBGJwLw1n3PFduGutvVvHyea4J-yvZs5TJkP_oXm9TONcZha-MP7mC1AR4upgQqZkHmGeWWTQomzoOKkLnNo9EKGidLTkCgQ-BgDbcrQPIM5WkcCN7CoTVX3wJjcAZjle_TkM8Y9DgCf_M55An5llp9VPAIqF2KorEgT3x9z2rChhGLAN9djC6RTrH4vBYJPRyYlkyBluFPt0hgfeii7aMTszU_sieVGORQ6JIpyhZwe-hgme-slP-GX_Zj0AcW453XL2mcYmZUeltuPrig/nu/f(bMin=2000)/globo-na2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="02" tvg-name="Record" tvg-logo="https://i.imgur.com/a9v3fqL.png" group-title="Canais",02 - RECORD
+#EXTINF:-1 tvg-id="02" tvg-name="Record" tvg-logo="https://i.imgur.com/a9v3fqL.png" group-title="Principais",02 - RECORD
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="03" tvg-name="SBT" tvg-logo="https://i.imgur.com/6ThDDMm.png" group-title="Canais",03 - SBT
+#EXTINF:-1 tvg-id="03" tvg-name="SBT" tvg-logo="https://i.imgur.com/6ThDDMm.png" group-title="Principais",03 - SBT
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717566511/ei/z6dfZs_yCs--obIP-4n40Ac/ip/2804%3A29b8%3A5040%3A59d3%3A24b3%3Ae5e6%3A8066%3A7816/id/ABVQXgr2LW4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/spc/UWF9f9k7ZokVmjeji1Jj5lEAYrSTbqxm4c-nYY_wOlivFqJAAgiU4g3rZIbizlI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPn5BUckbTB26vMOyAq0BiNgUI8Vo5iz5Z-tCCm2NndQAiBE3BS8D7vOLUFMqh_2t61YmkNLu0aIPTVSTrT98EPZkQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="04" tvg-name="Band" tvg-logo="https://i.imgur.com/gB588Kt.png" group-title="Canais",04 - BAND
+#EXTINF:-1 tvg-id="04" tvg-name="Band" tvg-logo="https://i.imgur.com/gB588Kt.png" group-title="Principais",04 - BAND
 https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="05" tvg-id="TV Brasil" tvg-logo="https://i.imgur.com/0ORiqbT.png" group-title="Canais",05 - TV BRASIL
+#EXTINF:-1 tvg-id="05" tvg-id="TV Brasil" tvg-logo="https://i.imgur.com/0ORiqbT.png" group-title="Principais",05 - TV BRASIL
 https://tvbrasil-stream.ebc.com.br/index.m3u8
