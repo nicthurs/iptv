@@ -8,3 +8,6 @@ https://live-cm-ah-14-37.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0e
 
 #EXTINF:-1 tvg-name="03 - RECORD" tvg-logo="image" group-title="REGIONAIS",03 - RECORD
 https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="04 - BAND" tvg-logo="image" group-title="REGIONAIS",04 - BAND
+https://live-c2.cf.dmcdn.net/sec2(wvYxJ2j-8eCPay_wsdnEwlQDbnnE-Ok6ULfrAuuhBFRUN7EHPsjEkLpGMlXIDvJ7EkKqBomK8SbjQ-XBt1Xtff2tHhoGTjhhdupWZqIiURQ)/cloud/3/x83vbd6/s/live-3.m3u8#cell=lcfc2
