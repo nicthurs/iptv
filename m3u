@@ -5,3 +5,6 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1720410458/ei/
 
 #EXTINF:-1 tvg-name="02 - GLOBO" tvg-logo="image" group-title="REGIONAIS",02 - GLOBO
 https://live-cm-ah-14-37.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTQtMzcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzIwNDc4ODg2LCJpYXQiOjE3MjAzOTI0ODYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZWQzOGY0YzUtODBmMi00YWI0LTlmZWEtZDQwOTFjYjhjYjg5IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvZ2xvYm8tY2UyL3BsYXlsaXN0Lm0zdTgifQ.klZEtb4IjMslKHm5WtrTan1f9xrboggIpJKvqNlSNU2nuuNf4it7m88D0euEoagE6yT14mH4avROOTFbLqpLAr8BF87gZjuAbCT6rp40RJzFA1DuQUOjcuibrhuSy23YWtGPCQ8jAFbdyCdbufRfJ39GXMlD-00aVDe7uj9hvKjCoT-ZIgcwsy8PqxKqSTdqohGGf_W77GqPTasTDmQC4wrWFVq9vB62YbQ6-gVZZjHA3i4Nuk7rL4E654H1F3CmtHVW54GpZ562Lzq-xtBJQrIfLoyvhSOd83VB4JF1GdX4RDwa-2n-461TCs4uj91EF1ibu1cEzHPZh2IT-XqZ3g/nu/f(bMin=2000)/globo-ce2/globo-ce2-audio_1=96000-video=2262976.m3u8
+
+#EXTINF:-1 tvg-name="03 - RECORD" tvg-logo="image" group-title="REGIONAIS",02 - RECORD
+https://spo4.akamaized.net/linear/hls/pa/event/8ssSlUQxSUimorxHsFz_SQ/stream/1dbfee11-3641-4a62-9220-1c83b6f1e270:SCL/variant/c4abf586dea8cf89652263cfec1d873d/bandwidth/5287612.m3u8?hdntl=exp=1720494545~acl=/*~data=hdntl~hmac=8f9c9a4e27161a34cde0e5db0ebef700b8b27df65cdd5554fdd45b81df20df91
