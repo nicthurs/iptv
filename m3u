@@ -20,3 +20,6 @@ https://www.dailymotion.com/cdn/live/video/x8ttlxm.m3u8?sec=knM_WcJi0q_LOjK0IwxS
 
 #EXTINF:-1 tvg-name="07 - CNT" tvg-logo="image" group-title="ENTRETENIMENTO",07 - CNT
 https://cloudflare.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcyMTA3MDE1OSwiaWF0IjoxNzIwNDY1MzU5LCJpZCI6IjAxOGZjYTkzLWJmNzYtNzAzNC1iMjNiLTIxNTNlZTI1ODliYyIsIm5iZiI6MTcyMDQ2MzU1OSwicmF1IjpbXSwidWlkIjoiMDE4ZmNhOTMtYmY3Ni03MDM0LWIyM2ItMjE1M2VlMjU4OWJjIiwidXJpX3N1YiI6Ii8yYjUxMjY2Mi1hNDBmLTQ2ZWYtYjU0MC1lOGVlM2Y1YmIxZmIvIn0.9tvqrWaPfZ1VBrMo8skxbK17Ncg_2y6mhHurOS_IbeQ&uid=018fca93-bf76-7034-b23b-2153ee2589bc&magica=sim
+
+#EXTINF:-1 tvg-name="08 - REDE BRASIL" tvg-logo="image" group-title="ENTRETENIMENTO",08 - REDE BRASIL
+https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
