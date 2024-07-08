@@ -14,3 +14,6 @@ https://www.dailymotion.com/cdn/live/video/x83vbd6.m3u8?sec=sErX8Afju1IIcCRL6vla
 
 #EXTINF:-1 tvg-name="05 - REDE TV" tvg-logo="image" group-title="ENTRETENIMENTO",05 - REDE TV
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 tvg-name="06 - TV GAZETA" tvg-logo="image" group-title="ENTRETENIMENTO",06 - TV GAZETA
+https://www.dailymotion.com/cdn/live/video/x8ttlxm.m3u8?sec=knM_WcJi0q_LOjK0IwxSd-MVHQjSrDrJ5sTS-ZyVcW3tCj2a7ac4afhXiRTi_hNy&dmTs=221836&dmV1st=A833D48E4EA3EB74142995D965424D90
