@@ -4,22 +4,10 @@
 https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8
 
 #EXTINF:-1 tvg-name="02 - GLOBO" tvg-logo="image" group-title="REGIONAIS",02 - GLOBO
-https://live-01.edge-brisa-jdo-pb.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1icmlzYS1qZG8tcGIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzIwNjYyNTI1LCJpYXQiOjE3MjA1NzYxMjUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZWQzOGY0YzUtODBmMi00YWI0LTlmZWEtZDQwOTFjYjhjYjg5IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCkvZ2xvYm8tY2UyL3BsYXlsaXN0Lm0zdTgifQ.gxITj7njJ-2JkHuIFLDinBVAbH0AzoZHpKf3BrVKiYogymPJu8eq9fP5ZPW0fkQeRvYteaWO3gMCsq3QAThwYKl6toeDg0A6Zf6V0hrAd-SHLI8gkxJaW_xkXSBPfltm8X8RKl1OtvHUFRRRNX2CP9k4fOVwdcBLGxzDzNwrYcOJXkdTEzvBpZsoI08zLWExHnZLCTFUfjKC8SPEgayByw0mu3gMQKrS_zllZM0TvXy9AVR1H8ljpFWNuevNaHBTMXN33V_TfjJne1CERx2aw3e9qIexNF8Ls6b5tWiRgZr6Z-t_N1rzmcXm4Uwn9GQPjdgqgP6sZWFHvu8KFGvZ-A/nu/f(bMin=2000)/globo-ce2/playlist.m3u8
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1 tvg-name="03 - RECORD" tvg-logo="image" group-title="REGIONAIS",03 - RECORD
 https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="04 - BAND" tvg-logo="image" group-title="REGIONAIS",04 - BAND
 https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
-
-#EXTINF:-1 tvg-name="05 - REDE TV" tvg-logo="image" group-title="ENTRETENIMENTO",05 - REDE TV
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-
-#EXTINF:-1 tvg-name="06 - TV GAZETA" tvg-logo="image" group-title="ENTRETENIMENTO",06 - TV GAZETA
-https://www.dailymotion.com/cdn/live/video/x8ttlxm.m3u8?sec=knM_WcJi0q_LOjK0IwxSd382THnQAcgxgF0gm7MBtfwfYXYCRQhXyQMwcFGdTvUU&dmTs=811722&dmV1st=dd25c8b1-3bf1-4978-9205-b84e2a5533d4
-
-#EXTINF:-1 tvg-name="07 - CNT" tvg-logo="image" group-title="ENTRETENIMENTO",07 - CNT
-https://cloudflare.cdn.spalla.io/live/2b512662-a40f-46ef-b540-e8ee3f5bb1fb/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcyMTE0NTA5NCwiaWF0IjoxNzIwNTQwMjk0LCJpZCI6IjAxOGZjYTkzLWJmNzYtNzAzNC1iMjNiLTIxNTNlZTI1ODliYyIsIm5iZiI6MTcyMDUzODQ5NCwicmF1IjpbXSwidWlkIjoiMDE4ZmNhOTMtYmY3Ni03MDM0LWIyM2ItMjE1M2VlMjU4OWJjIiwidXJpX3N1YiI6Ii8yYjUxMjY2Mi1hNDBmLTQ2ZWYtYjU0MC1lOGVlM2Y1YmIxZmIvIn0.n03seqKBL3iejiVxTPveGBqZYWmRJNN9fbKj0kmRCqs&uid=018fca93-bf76-7034-b23b-2153ee2589bc&magica=sim
-
-#EXTINF:-1 tvg-name="08 - REDE BRASIL" tvg-logo="image" group-title="ENTRETENIMENTO",08 - REDE BRASIL
-https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
