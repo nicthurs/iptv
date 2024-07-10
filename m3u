@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="01 - SBT" tvg-logo="image" group-title="REGIONAIS",01 - SBT
-https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8
-
-#EXTINF:-1 tvg-name="02 - GLOBO" tvg-logo="image" group-title="REGIONAIS",02 - GLOBO
+#EXTINF:-1 tvg-name="01 - GLOBO" tvg-logo="image" group-title="CANAIS",01 - GLOBO
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
-#EXTINF:-1 tvg-name="03 - RECORD" tvg-logo="image" group-title="REGIONAIS",03 - RECORD
+#EXTINF:-1 tvg-name="02 - RECORD" tvg-logo="image" group-title="CANAIS",02 - RECORD
 https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="04 - BAND" tvg-logo="image" group-title="REGIONAIS",04 - BAND
+#EXTINF:-1 tvg-name="03 - BAND" tvg-logo="image" group-title="CANAIS",03 - BAND
 https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
+
+#EXTINF:-1 tvg-name="04 - SBT" tvg-logo="image" group-title="CANAIS",04 - SBT
+https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8
