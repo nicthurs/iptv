@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="01 - GLOBO" tvg-logo="image" group-title="CANAIS ABERTOS",01 - GLOBO
-https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="02 - RECORD" tvg-logo="image" group-title="CANAIS ABERTOS",02 - RECORD
 https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
