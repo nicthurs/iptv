@@ -1,13 +1,85 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="01 - GLOBO" tvg-logo="image" group-title="CANAIS ABERTOS",01 - GLOBO
-https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=“image” title-group=“REGIONAIS”,01 - SBT
+https://aovivo.maissbt.com/index.m3u8
 
-#EXTINF:-1 tvg-name="02 - RECORD" tvg-logo="image" group-title="CANAIS ABERTOS",02 - RECORD
+#EXTINF:-1 tvg-logo=“image” title-group=“REGIONAIS”,02 - GLOBO
+https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo=“image” title-group=“REGIONAIS”,03 - RECORD
 https://cdn-3.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="03 - BAND" tvg-logo="image" group-title="CANAIS ABERTOS",03 - BAND
+#EXTINF:-1 tvg-logo=“image” title-group=“REGIONAIS”,04 - BAND
 https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
 
-#EXTINF:-1 tvg-name="04 - SBT" tvg-logo="image" group-title="CANAIS ABERTOS",04 - SBT
-https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8
+#EXTINF:-1 tvg-logo=“image” title-group=“ENTRETENIMENTO”,05 - REDE TV
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=“image” title-group=“ENTRETENIMENTO”,06 - REDE BRASIL
+https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“image” title-group=“ENTRETENIMENTO”,07 - REDE MEIO NORTE
+https://stream.amsolution.net.br:8443/live/60ce4e9b6adee/index.m3u8
+
+#EXTINF:-1 tvg-logo=“image” title-group=“ENTRETENIMENTO”,08 - ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“image” title-group=“ENTRETENIMENTO”,09 - TV PARANÁ TURISMO
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo=“image” title-group=“ENTRETENIMENTO”,10 - VIVAX TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“image” title-group=“ENTRETENIMENTO”,11 - PLAY TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+
+#EXTINF:-1 tvg-logo=“image” title-group=“ENTRETENIMENTO”,12 - YPÊ TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=“image” title-group=“NOTÍCIAS”,13 - RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+
+#EXTINF:-1 tvg-logo=“image” title-group=“NOTÍCIAS”,14 - JP NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+
+#EXTINF:-1 tvg-logo=“image” title-group=“NOTÍCIAS”,15 - CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo=“image” title-group=“EDUCAÇÃO”,16 - TV CULTURA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
+
+#EXTINF:-1 tvg-logo=“image” title-group=“RELIGIOSO”,17 - REDE SÉCULO 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+#EXTINF:-1 tv-logo=“image” title-group=“RELIGIOSO”,18 - REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tv-logo=“image” title-group=“RELIGIOSO”,19 - RIT TV
+https://cdn-1.nxplay.com.br/RIT_TV/index.m3u8
+
+#EXTINF:-1 tv-logo=“image” title-group=“RELIGIOSO”,20 - TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tv-logo=“image” title-group=“RELIGIOSO”,21 - TV NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1 tv-logo=“image” title-group=“RELIGIOSO”,22 - REDE GOSPEL
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tv-logo=“image” title-group=“RELIGIOSO”,23 - CANÇÃO NOVA
+https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+
+#EXTINF:-1 tv-logo=“image” title-group=“RELIGIOSO”,24 - REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tv-logo=“image” title-group=“RELIGIOSO”,25 - TV IMACULADA
+https://caikron.com.br:19360/tvmi/tvmi.m3u8
+
+#EXTINF:-1 tv-logo=“image” title-group=“TV PÚBLICA”,26 - TV CÂMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
+
+#EXTINF:-1 tv-logo=“image” title-group=“TV PÚBLICA”,27 - TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8?ManoTV
+
+#EXTINF:-1 tv-logo=“image” title-group=“group”,name
+Link
